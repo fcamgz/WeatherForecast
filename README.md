@@ -1,3 +1,12 @@
+## API Fetch from console
+![sample image](https://github.com/fcamgz/WeatherForecast/blob/main/images/console-log.PNG?raw=true)
+## Page View 1
+![sample image](https://github.com/fcamgz/WeatherForecast/blob/main/images/mainPage-1.PNG?raw=true)
+## Page View 2
+![sample image](https://github.com/fcamgz/WeatherForecast/blob/main/images/mainPage-2.PNG?raw=true)
+## Page View 3
+![sample image](https://github.com/fcamgz/WeatherForecast/blob/main/images/mainPage-3.PNG?raw=true)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
