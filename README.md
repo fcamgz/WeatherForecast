@@ -1,5 +1,3 @@
-## API Fetch from console
-![sample image](https://github.com/fcamgz/WeatherForecast/blob/main/images/console-log.PNG?raw=true)
 ## Page View 1
 ![sample image](https://github.com/fcamgz/WeatherForecast/blob/main/images/mainPage-1.PNG?raw=true)
 ## Page View 2
