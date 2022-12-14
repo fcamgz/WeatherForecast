@@ -1,7 +1,7 @@
 ## Page View 1
-![sample image](https://github.com/fcamgz/WeatherForecast/blob/main/images/mainPage-1.PNG?raw=true)
+![sample image](https://github.com/fcamgz/WeatherForecast/blob/main/images/mainPage-1.png?raw=true)
 ## Page View 2
-![sample image](https://github.com/fcamgz/WeatherForecast/blob/main/images/mainPage-2.PNG?raw=true)
+![sample image](https://github.com/fcamgz/WeatherForecast/blob/main/images/mainPage-2.png?raw=true)
 ## Page View 3
 ![sample image](https://github.com/fcamgz/WeatherForecast/blob/main/images/mainPage-3.PNG?raw=true)
 
